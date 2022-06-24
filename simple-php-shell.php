@@ -1,5 +1,3 @@
-source:  https://gist.github.com/joswr1ght/22f40787de19d80d110b37fb79ac3985
-
 <html>
 <body>
 <form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
@@ -16,3 +14,4 @@ source:  https://gist.github.com/joswr1ght/22f40787de19d80d110b37fb79ac3985
 </pre>
 </body>
 </html>
+<!-- source:  https://gist.github.com/joswr1ght/22f40787de19d80d110b37fb79ac3985 -->
