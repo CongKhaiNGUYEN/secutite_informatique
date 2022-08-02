@@ -81,3 +81,5 @@ PHPSESSID			['93l9ahf1120bkp79t5ehbkc0m4']
 [4]: https://www.kirupa.com/forum/showthread.php?377664-onerror-within-the-img-tag
 [5]: http://www.dvwa.co.uk/
 [6]: http://www.owaspbwa.org/
+### Source
+`https://github.com/R0B1NL1N/WebHacking101/blob/master/xss-reflected-steal-cookie.md`
